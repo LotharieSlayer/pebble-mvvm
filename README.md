@@ -1,6 +1,6 @@
 # pebble-mvvm
 
-MVVM architecture for Pebble watchapp/watchface written in C using the Pebble SDK.
+[MVVM architecture](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) for Pebble watchapp/watchface written in C using the Pebble SDK.
 
 ## Building & running
 
