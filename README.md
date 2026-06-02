@@ -1,6 +1,6 @@
-# learning
+# pebble-mvvm
 
-A Pebble watchapp/watchface written in C using the Pebble SDK.
+MVVM architecture for Pebble watchapp/watchface written in C using the Pebble SDK.
 
 ## Building & running
 
@@ -30,6 +30,10 @@ wscript          Build rules — usually no need to edit
 
 By default this project is configured as a watchapp. To make it a watchface,
 set `pebble.watchapp.watchface` to `true` in `package.json`.
+
+## TODO
+
+- [ ] Window router
 
 ## Documentation
 
