@@ -34,6 +34,10 @@ set `pebble.watchapp.watchface` to `true` in `package.json`.
 ## TODO
 
 - [ ] Window router
+- [ ] Models
+- [ ] Repositories
+- [ ] Some kinds of components
+- [ ] GDB **inside** VS Code (launch.json)
 
 ## Documentation
 
